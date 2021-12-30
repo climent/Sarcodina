@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "kbd")(type "Legacy")(uri "${KIPRJMOD}/library/kbd.lib")(options "")(descr ""))
+  (lib (name "nexus")(type "Legacy")(uri "${KIPRJMOD}/nexus.lib")(options "")(descr ""))
+)
