@@ -1,0 +1,14 @@
+(footprint "wirepad_new" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 5C588BE5)
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 1.905 180) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp f1ed5572-0fa9-4e9d-a411-5dcb7ff69673)
+  )
+  (fp_text value "wire pad" (at 0 -1.905 180) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp f7a593c3-0f61-4d7c-8cda-488eb4e1f680)
+  )
+  (pad "1" thru_hole circle (at 0 0) (size 1.8 1.8) (drill 0.8) (layers *.Cu *.Mask "F.SilkS") (tstamp d90c06ff-fb51-4ab7-8d42-f4988ad31cc8))
+)

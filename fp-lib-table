@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "kbd")(type "KiCad")(uri "${KIPRJMOD}/kbd.pretty")(options "")(descr ""))
+  (lib (name "Sarcodina")(type "KiCad")(uri "${KIPRJMOD}/Sarcodina.pretty")(options "")(descr ""))
 )
